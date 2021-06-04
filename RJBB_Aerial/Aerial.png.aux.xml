@@ -1,0 +1,38 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="XML_com.adobe.xmp">&lt;?xpacket begin="&#xFEFF;" id="W5M0MpCehiHzreSzNTczkc9d"?&gt; &lt;x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c148 79.164036, 2019/08/13-01:06:57        "&gt; &lt;rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt; &lt;rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop 21.0 (Windows)" xmp:CreateDate="2021-03-08T00:57:21+09:00" xmp:ModifyDate="2021-03-08T02:53:41+09:00" xmp:MetadataDate="2021-03-08T02:53:41+09:00" dc:format="image/png" photoshop:ColorMode="3" photoshop:ICCProfile="sRGB IEC61966-2.1" xmpMM:InstanceID="xmp.iid:d56e75f3-ca7f-4245-b460-2e3eb21ae96a" xmpMM:DocumentID="adobe:docid:photoshop:b1239960-8c11-cd49-bcc7-dc5a2683b5a7" xmpMM:OriginalDocumentID="xmp.did:bfd1114f-476b-6142-8194-15935960ca0c"&gt; &lt;xmpMM:History&gt; &lt;rdf:Seq&gt; &lt;rdf:li stEvt:action="created" stEvt:instanceID="xmp.iid:bfd1114f-476b-6142-8194-15935960ca0c" stEvt:when="2021-03-08T00:57:21+09:00" stEvt:softwareAgent="Adobe Photoshop 21.0 (Windows)"/&gt; &lt;rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:3dc698c7-40eb-9a42-b4ed-4b8944111487" stEvt:when="2021-03-08T01:19:57+09:00" stEvt:softwareAgent="Adobe Photoshop 21.0 (Windows)" stEvt:changed="/"/&gt; &lt;rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:02d37a84-9791-fc45-a536-a496c4af101d" stEvt:when="2021-03-08T02:53:41+09:00" stEvt:softwareAgent="Adobe Photoshop 21.0 (Windows)" stEvt:changed="/"/&gt; &lt;rdf:li stEvt:action="converted" stEvt:parameters="from application/vnd.adobe.photoshop to image/png"/&gt; &lt;rdf:li stEvt:action="derived" stEvt:parameters="converted from application/vnd.adobe.photoshop to image/png"/&gt; &lt;rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:d56e75f3-ca7f-4245-b460-2e3eb21ae96a" stEvt:when="2021-03-08T02:53:41+09:00" stEvt:softwareAgent="Adobe Photoshop 21.0 (Windows)" stEvt:changed="/"/&gt; &lt;/rdf:Seq&gt; &lt;/xmpMM:History&gt; &lt;xmpMM:DerivedFrom stRef:instanceID="xmp.iid:02d37a84-9791-fc45-a536-a496c4af101d" stRef:documentID="xmp.did:bfd1114f-476b-6142-8194-15935960ca0c" stRef:originalDocumentID="xmp.did:bfd1114f-476b-6142-8194-15935960ca0c"/&gt; &lt;/rdf:Description&gt; &lt;/rdf:RDF&gt; &lt;/x:xmpmeta&gt; &lt;?xpacket end="r"?&gt;</MDI>
+  </Metadata>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">205.75024125172</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">68.930631001081</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">200.6323236165</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">72.237834853893</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">193.8218830649</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">79.197783041664</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
